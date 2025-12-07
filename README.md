@@ -1,6 +1,6 @@
 # React + TypeScript + Vite + Jest
 
-이 프로젝트는 React, TypeScript, Vite, Jest를 사용한 보일러플레이트 템플릿입니다.
+이 프로젝트는 sunset-ops는 "노을빛 감성을 가진, 개발자를 위한 정밀한 UI 라이브러리" 입니다. 
 
 ## 기술 스택
 
