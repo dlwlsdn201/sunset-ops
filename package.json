@@ -1,7 +1,7 @@
 {
-  "name": "my-template--react-ts-jest-vite",
+  "name": "@dev-leejinw/sunset-ops",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
